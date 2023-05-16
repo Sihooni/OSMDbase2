@@ -8,7 +8,7 @@ import { TransposeCalculator } from '../src/Plugins/Transpose/TransposeCalculato
 (function () {
     "use strict";
     var openSheetMusicDisplay;
-    var sampleFolder = "",
+    var sampleFolder = "samples/",
         samples = {
             "Beethoven, L.v. - An die ferne Geliebte": "Beethoven_AnDieFerneGeliebte.xml",
             "Clementi, M. - Sonatina Op.36 No.1 Pt.1": "MuzioClementi_SonatinaOpus36No1_Part1.xml",
